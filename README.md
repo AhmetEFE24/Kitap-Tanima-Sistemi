@@ -24,7 +24,7 @@ This project is a **real-time book recognition system** developed using **YOLO**
 
 ---
 ### Örnek / Demo
-![Örnek Görsel](KitapTanima/Ekran görüntüsü 2025-10-05 191054.png)
+![Örnek Görsel](KitapTanima/OrnekGoruntu.png)
 ---
 
 ## ⚙️ Kurulum / Installation
