@@ -23,8 +23,7 @@ This project is a **real-time book recognition system** developed using **YOLO**
 - 🟢 Kitap bilgilerini kullanıcıya gösterme / Display book information to the user  
 
 ---
-Ekran Görüntüleri
-![Açıklama](KitapTanima/Ekran görüntüsü 2025-10-05 191054.png)
+![Örnek Görsel](KitapTanima/Ekran görüntüsü 2025-10-05 191054.png)
 
 
 ## ⚙️ Kurulum / Installation
