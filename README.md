@@ -28,5 +28,4 @@ This project is a **real-time book recognition system** developed using **YOLO**
 1. Repoyu klonlayın / Clone the repository:  
 ```bash
 git clone <repo-linki>
-### Örnek / Demo
-![Kitap Tanıma Demo](images/demo.gif)
+
