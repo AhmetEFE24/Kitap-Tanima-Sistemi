@@ -28,4 +28,7 @@ This project is a **real-time book recognition system** developed using **YOLO**
 1. Repoyu klonlayın / Clone the repository:  
 ```bash
 git clone <repo-linki>
+pip install opencv-python yolov5 cvzone
+python main.py
+
 
